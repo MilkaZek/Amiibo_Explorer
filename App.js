@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import Input from "./Input";
-import AmiiboCard from "./Amiibo Card";
+import AmiiboCard from "./AmiiboCard";
 import "./styles.css";
 
 export default function App() {
