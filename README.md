@@ -19,7 +19,5 @@ Project Link:
 https://65smwv.csb.app/
 
 Resources:
-
-Link to API:
-https://amiiboapi.com/api/amiibo/
+- Link to API: https://amiiboapi.com/api/amiibo/
 
